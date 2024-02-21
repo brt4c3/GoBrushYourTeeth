@@ -1,0 +1,31 @@
+# ------ UNIT TESTING PHASE ------- #
+# build angular app 
+draw the map 
+npm config 
+npm config list 
+mobile hotspot proxy
+http://mms
+andmms.plusacs.ne.jp
+# npm install @angular/cli
+
+
+# ng buildconfi
+
+
+# create folders and files 
+
+# start coding 
+
+
+# ------ DEPLOYING PHASE ------- #
+
+# step one 
+deploy a ngnx from docker 
+
+# step two 
+build angular app within the container 
+
+# create the docker.yml file for this 
+whatever docker start yml file 
+
+
